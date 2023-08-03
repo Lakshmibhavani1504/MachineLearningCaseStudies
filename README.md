@@ -12,6 +12,12 @@ Dataset Description:
 9. Name - The first and last names of the passenger.
 10. Transported - Whether the passenger was transported to another dimension. This is the target, the column you are trying to predict.
 
+Below are data files:
+
+spaceship_titanic_test.csv - Test File
+spaceship_titanic_train.csv - Train File
+Final_Report_Spaceship_Titanic - Output file 
+
 Conclusion:
 Below are the valuable insights that I gained from Spaceship Titanic Dataset.
 
